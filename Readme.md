@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/pedrolssilva/Curso-Testes_em_DotNet-Testando_software">
+  <a href="https://github.com/pedrolssilva/Curso-Testes_em_DotNet-Testando_softwar">
     <img src="https://seeklogo.com/images/C/c-logo-A44DB3D53C-seeklogo.com.png" alt="Logo" width="80" height="80">
     <img src="https://www.nuget.org/profiles/xunit/avatar?imageSize=512" alt="Logo" width="80" height="80">
   </a>
@@ -25,9 +25,9 @@
     <br />
     <a href="https://cursos.alura.com.br/course/testes-net-integrando-aplicacao-banco-dados">View Demo</a>
     ·
-    <a href="https://github.com/pedrolssilva/Curso_Testes-net-integrando-aplicacao-banco-dados/issues">Report Bug</a>
+    <a href="https://github.com/pedrolssilva/Curso-Testes_em_DotNet-Testando_softwar/issues">Report Bug</a>
     ·
-    <a href="https://github.com/pedrolssilva/Curso_Testes-net-integrando-aplicacao-banco-dados/issues">Request Feature</a>
+    <a href="https://github.com/pedrolssilva/Curso-Testes_em_DotNet-Testando_softwar/issues">Request Feature</a>
   </p>
 </div>
 
@@ -129,7 +129,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Feature 3
   - [ ] Nested Feature -->
 
-See the [open issues](https://github.com/pedrolssilva/Curso-Testes_em_DotNet-Testando_software/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/pedrolssilva/Curso-Testes_em_DotNet-Testando_softwar/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -164,7 +164,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 [Pedro L.](mailto:pedrolssilva@hotmail.com)
 
-Project Link: [Source Repo](https://github.com/pedrolssilva/Curso-Testes_em_DotNet-Testando_software/)
+Project Link: [Source Repo](https://github.com/pedrolssilva/Curso-Testes_em_DotNet-Testando_softwar/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -181,16 +181,16 @@ Project Link: [Source Repo](https://github.com/pedrolssilva/Curso-Testes_em_DotN
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/pedrolssilva/Curso-Testes_em_DotNet-Testando_software.svg?style=for-the-badge
-[contributors-url]: https://github.com/pedrolssilva/Curso-Testes_em_DotNet-Testando_software/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/pedrolssilva/Curso-Testes_em_DotNet-Testando_software.svg?style=for-the-badge
-[forks-url]: https://github.com/pedrolssilva/Curso-Testes_em_DotNet-Testando_software/network/members
-[stars-shield]: https://img.shields.io/github/stars/pedrolssilva/Curso-Testes_em_DotNet-Testando_software.svg?style=for-the-badge
-[stars-url]: https://github.com/pedrolssilva/Curso-Testes_em_DotNet-Testando_software/stargazers
-[issues-shield]: https://img.shields.io/github/issues/pedrolssilva/Curso-Testes_em_DotNet-Testando_software.svg?style=for-the-badge
-[issues-url]: https://github.com/pedrolssilva/Curso-Testes_em_DotNet-Testando_software/issues
-[license-shield]: https://img.shields.io/github/license/pedrolssilva/Curso-Testes_em_DotNet-Testando_software.svg?style=for-the-badge
-[license-url]: https://github.com/pedrolssilva/Curso-Testes_em_DotNet-Testando_software/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/pedrolssilva/Curso-Testes_em_DotNet-Testando_softwar.svg?style=for-the-badge
+[contributors-url]: https://github.com/pedrolssilva/Curso-Testes_em_DotNet-Testando_softwar/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/pedrolssilva/Curso-Testes_em_DotNet-Testando_softwar.svg?style=for-the-badge
+[forks-url]: https://github.com/pedrolssilva/Curso-Testes_em_DotNet-Testando_softwar/network/members
+[stars-shield]: https://img.shields.io/github/stars/pedrolssilva/Curso-Testes_em_DotNet-Testando_softwar.svg?style=for-the-badge
+[stars-url]: https://github.com/pedrolssilva/Curso-Testes_em_DotNet-Testando_softwar/stargazers
+[issues-shield]: https://img.shields.io/github/issues/pedrolssilva/Curso-Testes_em_DotNet-Testando_softwar.svg?style=for-the-badge
+[issues-url]: https://github.com/pedrolssilva/Curso-Testes_em_DotNet-Testando_softwar/issues
+[license-shield]: https://img.shields.io/github/license/pedrolssilva/Curso-Testes_em_DotNet-Testando_softwar.svg?style=for-the-badge
+[license-url]: https://github.com/pedrolssilva/Curso-Testes_em_DotNet-Testando_softwar/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/pedrolssilva
 [product-screenshot]: images/screenshot.png
