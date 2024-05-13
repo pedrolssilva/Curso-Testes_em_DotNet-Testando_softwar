@@ -16,12 +16,13 @@ namespace Alura.ByteBank.Infraestrutura.Testes
     public class AgenciaRepositorioTestes
     {
         private readonly IAgenciaRepositorio _repositorio;
-        public ITestOutputHelper SaidaConsoleTeste;
+        public ITestOutputHelper SaidaConsoleTeste { get; set; }
 
         public AgenciaRepositorioTestes(ITestOutputHelper _saidaConsoleTeste)
         {
             SaidaConsoleTeste = _saidaConsoleTeste;
             SaidaConsoleTeste.WriteLine("Construtor invocado.");
+
             //Injetando dependências no construtor;
             var servico = new ServiceCollection();
             servico.AddTransient<IAgenciaRepositorio, AgenciaRepositorio>();
